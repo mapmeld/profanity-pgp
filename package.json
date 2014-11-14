@@ -1,0 +1,17 @@
+{
+  "name": "profanity65",
+  "version": "0.0.1",
+  "description": "PGP encryption and message-signing with a twist",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapmeld/profanity65"
+  },
+  "author": "Nick Mapmeld <ndoiron@mapmeld.com>",
+  "license": "GPLv3+",
+  "bin": {
+    "profanity65": "main.js"
+  },
+  "dependencies": {
+    "openpgp": "0.8.X"
+  }
+}
