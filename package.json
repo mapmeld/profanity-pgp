@@ -9,7 +9,10 @@
   "author": "Nick Mapmeld <ndoiron@mapmeld.com>",
   "license": "GPLv3+",
   "bin": {
-    "profanity65": "main.js"
+    "profanity-sign": "sign.js",
+    "profanity-encrypt": "encrypt.js",
+    "profanity-verify": "verify.js",
+    "profanity-decrypt": "decrypt.js"
   },
   "dependencies": {
     "openpgp": "0.8.X"
