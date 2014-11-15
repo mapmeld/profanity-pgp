@@ -34,11 +34,11 @@ replaces the message's characters with a much more profane system:
 Version: Profanity65 VERSION
 Comment: https://github.com/mapmeld/profanity65
 
-jackass dumbfuck jackass shitty piss CUNT shitty ASS piss shit piss skank piss dick CUNTPUNTER dickish piss fuck shitty ASSHAT shitty shitty dumbfuck cuntpunter FUCK DICK dumbfuck BITCHY asshat damn shitstain DICKISH piss piss shit FUCKING MOTHERFUCKING piss CUNT piss HIPPIE hippie asshat shit MOTHERFUCKER bitchy MOTHERFUCKER FUCK hippie JACKASS DUMBASS nsa-hugging fucker bullshit jackass ASS SHITTER MOTHERFUCKER FUCKING PISS
-DAMN BASTARD BASTARD dumbass asshole piss ass dumbfuck asshat dipshit BITCH asshat FUCKING DICKISH SHIT HIPPIE ASS BITCHY skank BITCHY BITCHY bullshit DAMN BITCHY dumbass BULLSHIT CUNTPUNTER ass DAMN piss BITCHY skank slut DUMBFUCK BULLSHIT DUMBASS SHIT damn DIPSHIT DIPSHIT GODDAMN HIPPIE hippie BITCHY FUCKING COCKSUCKER cunt DUMBASS DUMBASS BASTARD CUNT COCKSUCKER HIPPIE JACKASS DAMN shitstain whore MOTHERFUCKER bullshit nsa-hugging
-bastard fuck dickish hippie COCKSUCKER whore DICKISH whore DICKISH FUCK dumbass skank DUMBASS shitter ass whore DAMN HIPPIE SHITSTAIN SHITSTAIN FUCKING cocksucker bitchy DAMN FUCK FUCKING BULLSHIT cunt BULLSHIT piss NSA-HUGGING BULLSHIT PISS slut dumbass CUNT shit dick bullshit cunt BULLSHIT fucking ASS ASSHOLE goddamn DIPSHIT JACKASS motherfucking DAMN shitstain asshat HIPSTER NSA-HUGGING fucking shitter slut ASS piss CUNT piss
-GODDAMN cocksucker bitch ASSHOLE motherfucker BITCHY DAMN slut DUMBFUCK cuntpunter shitter DIPSHIT hippie bitch SHIT dipshit fucking fucking cocksucker ASS shitter HIPPIE BITCH SHITSTAIN SHITSTAIN COCKSUCKER dumbfuck dick DUMBASS dick JACKASS SHITTY
-SHITTY ASSHAT piss FUCKER bitch
+dipshit damn dipshit fuck dumbass motherfucking fuck git dumbass dumbfuck dumbass fucker dumbass crap nsa-hugging cunt shit crap dipshit goddamn fuck fuck damn bullshit shit pissant damn horseshit ass cock fanny poppycock dumbass dumbass fanny cunt cuntpunter bitch motherfucker whore motherfucker damn bitch skank turd fuck dongle shitter nsa-hugging darn asshole asshole hellish twat anal nsa-hugging fucking bollocks turd whore
+git dumbfuck fuckwad cunt piss dick tit douche nsa-hugging hellish voldemort twat shitstorm anal asshat bullshit whore goddamn bullshit shitstain twat piss whore fuck git ass ass horseshit pissant turd wanker shitstain cock dongle fucking slut crappy turd bullshit bitchy motherfucker bastard dumbfuck horseshit damn dumbfuck horseshit piss piss cunt whore hellish tit poppycock asshat dildo fanny tit asshole fuck
+shitfaced dumbfuck poppycock asshole fanny schmuck ass bitchy twat bollocks hellish dickhead bastard bitch turd cunt dickish shit bastard motherfucker skank turd dickhead git darn balls dongle wanker shitstain fuckwad damn jackass bullshit asshat schmuck poppycock asshat frak asshat bastard jackass bollocks balls shit jackass shitstorm git dumbfuck dumbfuck crap git tit dildo crappy hellish hellish turd bitch hippie schmuck
+hippie whore skank dongle schmuck fucking darn hipster cunt douchebag shitstain tit wanker motherfucking fucking motherfucking nsa-hugging crap cock hipster fanny fanny frak goddamn dickish crap douche frak pussy dongle asshat whoring
+whoring dildo santorum crappy fucker
 -----END PGP SIGNATURE-----
 ```
 
