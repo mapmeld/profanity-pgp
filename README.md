@@ -42,6 +42,18 @@ whoring dildo santorum crappy fucker
 -----END PGP SIGNATURE-----
 ```
 
+## Install and Use
+
+```
+npm install -g profanity65
+
+profanity-encrypt SnowdenDocs.txt > GreenwaldMail.txt
+profanity-decrypt KryptosSculpture.txt > LizardPeopleConstitution.txt
+
+profanity-sign HackThePlanet.txt > Hackers.txt
+profanity-verify SketchyEmail.txt
+```
+
 ## License
 
 GPLv3+ -- based on OpenPGP.js which is LGPL
