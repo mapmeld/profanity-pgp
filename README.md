@@ -42,7 +42,7 @@ whoring dildo santorum crappy fucker
 -----END PGP SIGNATURE-----
 ```
 
-## Install and Use
+## Test Install (insecure)
 
 ```
 npm install -g profanity65
@@ -53,6 +53,33 @@ profanity-decrypt KryptosSculpture.txt > LizardPeopleConstitution.txt
 profanity-sign HackThePlanet.txt > Hackers.txt
 profanity-verify SketchyEmail.txt
 ```
+
+## Install for real
+
+Create keys in GPG
+```
+gpg --gen-key
+gpg --export --armor emailYouUsed@example.com > public_key.asc
+gpg --export-secret-key --armor emailYouUsed@example.com > private_key.asc
+```
+
+Install the software
+```
+git clone https://github.com/mapmeld/profanity65.git
+cd profanity65
+npm install
+```
+
+Edit ```your_keys.js``` to have your public key, private key, and passphrase.
+
+```
+npm install . -g
+```
+
+You can now use ```profanity-encrypt``` and other command line functions with
+your own key.
+
+**Never commit your private key - the one in this repo is used as an example and never for authorized messages.**
 
 ## License
 
