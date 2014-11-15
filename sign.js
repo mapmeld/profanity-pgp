@@ -1,11 +1,11 @@
+#! /usr/bin/env node
+
 var openpgp = require('openpgp');
 
 var profanity = require('./profanity.json');
 var ur_private_key = require('./your_keys.js').ur_private_key;
 var ur_private_key_pass = require('./your_keys.js').ur_private_key_pass;
-var ur_public_key = require('./your_keys.js').ur_public_key;
 
-var pubKey = openpgp.key.readArmored(ur_public_key).keys[0];
 var privKey = openpgp.key.readArmored(ur_private_key).keys[0];
 privKey.getSigningKeyPacket().decrypt(ur_private_key_pass);
 
@@ -19,7 +19,7 @@ var clearSignedArmor = openpgp.signClearMessage(privKey, plaintext).then(functio
   sig = sig.replace('OpenPGP.js', 'Profanity65');
   sig = sig.replace('http://openpgpjs.org', 'https://github.com/mapmeld/profanity65');
   var littlesig = sig.split('\n');
-  for(var l = 3; l < littlesig.length - 2; l++) { 
+  for(var l = 3; l < littlesig.length - 2; l++) {
     var original_line = littlesig[l];
     var new_line = [];
     for(var sym = 0; sym < original_line.length; sym++) {

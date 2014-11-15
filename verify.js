@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var openpgp = require('openpgp');
 
 var profanity = require('./profanity.json');
@@ -16,11 +18,14 @@ var message = [
 "Version: Profanity65 VERSION",
 "Comment: https://github.com/mapmeld/profanity65",
 "",
-"dipshit damn dipshit fuck dumbass motherfucking fuck git dumbass dumbfuck dumbass fucker dumbass crap nsa-hugging cunt shit crap dipshit goddamn fuck fuck damn bullshit shit pissant damn horseshit ass cock fanny poppycock dumbass dumbass fanny cunt cuntpunter bitch motherfucker whore motherfucker damn bitch skank turd fuck dongle shitter nsa-hugging darn asshole asshole hellish twat anal nsa-hugging fucking bollocks turd whore",
-"git dumbfuck fuckwad cunt piss dick tit douche nsa-hugging hellish voldemort twat shitstorm anal asshat bullshit whore goddamn bullshit shitstain twat piss whore fuck git ass ass horseshit pissant turd wanker shitstain cock dongle fucking slut crappy turd bullshit bitchy motherfucker bastard dumbfuck horseshit damn dumbfuck horseshit piss piss cunt whore hellish tit poppycock asshat dildo fanny tit asshole fuck",
-"shitfaced dumbfuck poppycock asshole fanny schmuck ass bitchy twat bollocks hellish dickhead bastard bitch turd cunt dickish shit bastard motherfucker skank turd dickhead git darn balls dongle wanker shitstain fuckwad damn jackass bullshit asshat schmuck poppycock asshat frak asshat bastard jackass bollocks balls shit jackass shitstorm git dumbfuck dumbfuck crap git tit dildo crappy hellish hellish turd bitch hippie schmuck",
-"hippie whore skank dongle schmuck fucking darn hipster cunt douchebag shitstain tit wanker motherfucking fucking motherfucking nsa-hugging crap cock hipster fanny fanny frak goddamn dickish crap douche frak pussy dongle asshat whoring",
-"whoring dildo santorum crappy fucker",
+"dipshit dickbag dumbfuck asshat dumbfuck dumbass fuck dumbfuck fanny dumbass dumbass motherfucking dumbfuck motherfucking goddamn poppycock shitfaced turd fuck git fanny nsa-hugging dumbass ass fuckwad hipster dumbfuck dumbfuck nsa-hugging motherfucker hellish fuckwad pissant dipshit dumbass dumbass shitstorm hippie shitstain fuckwad wanker nsa-hugging ass git whore anal pissant douchebag crap cunt pissant fuck jackass dick dick crappy bullshit douchebag shitty bitch",
+"voldemort hippie dipshit piss shit hipster hellish hellish bitch fuck slut jackass douche dickhead hellish dickbag frak cock shitter dumbfuck frak asshat motherfucking bullshit frak shitter douche motherfucking ass douchebag piss hipster motherfucking voldemort piss poppycock anal crap dumbfuck asshat ass crap fucker fuck douchebag hippie shitty hipster shitfaced shitstain schmuck tit shitstain slut hipster dongle motherfucker hellish hellish santorum",
+"hippie shitter darn dumbfuck anal poppycock bullshit asshat dickbag pussy bitch horseshit damn fucker shitfaced hippie bollocks fanny voldemort piss dick pissant fanny cuntpunter shitfaced crap hippie shitter cunt hippie dumbass nsa-hugging hippie dick schmuck fanny goddamn piss fucker twat balls fanny voldemort pussy douche piss crappy fucking tit schmuck dipshit bitch fanny anal fuckwad shitter wanker darn tit shitty",
+"tit hellish shitstorm shitter wanker dickish shit motherfucker fucker fuck dildo fuckwad balls git hippie crappy asshat shitstain ass santorum bitchy fucking shitfaced cuntpunter wanker hellish motherfucker motherfucking douchebag bullshit crap frak bastard crap pussy skank damn wanker motherfucking skank santorum dildo douche git pussy fuckwad asshat twat motherfucker goddamn dongle dickish whore darn darn dipshit asshole fucking motherfucking horseshit",
+"bitchy bollocks nsa-hugging nsa-hugging dumbfuck cock crappy shit schmuck twat darn fucking voldemort git frak hellish hippie skank goddamn bollocks ass ass turd bitch voldemort fanny goddamn shitfaced santorum turd shitty balls damn crap fanny santorum dipshit shitter hippie douche fucking douche fuckwad dumbfuck frak asshole fanny motherfucker shitstorm turd slut bitch bitchy jackass frak asshat pussy bollocks pussy dickish",
+"goddamn dongle shitstorm fucker pussy fucker anal bitch wanker dick skank ass shitstorm bitchy hipster dumbfuck bollocks douche fuck bullshit damn whore tit shitstain bollocks bullshit asshole shitter cunt shitty slut motherfucker asshat hippie motherfucker jackass slut wanker pissant cock goddamn twat shitfaced fuckwad hellish dickish horseshit shitter cuntpunter voldemort shitstain fuck twat bullshit shitter anal wanker skank bullshit motherfucker",
+"dildo goddamn horseshit hellish frak asshole crappy damn pussy motherfucker shitty bollocks shitfaced dickbag fanny horseshit voldemort ass poppycock skank bastard fanny hipster whoring",
+"whoring goddamn cunt shit douche",
 "-----END PGP SIGNATURE-----"
 ].join("\n");
 

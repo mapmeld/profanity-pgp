@@ -1,13 +1,11 @@
+#! /usr/bin/env node
+
 var openpgp = require('openpgp');
 
 var profanity = require('./profanity.json');
-var ur_private_key = require('./your_keys.js').ur_private_key;
-var ur_private_key_pass = require('./your_keys.js').ur_private_key_pass;
 var ur_public_key = require('./your_keys.js').ur_public_key;
 
 var pubKey = openpgp.key.readArmored(ur_public_key).keys[0];
-var privKey = openpgp.key.readArmored(ur_private_key).keys[0];
-privKey.getSigningKeyPacket().decrypt(ur_private_key_pass);
 
 var plaintext = 'hello world\nthis is a test\nwhat happens next?';
 
