@@ -26,7 +26,7 @@ Let's make them more interesting!
 
 profanity.json includes a list of swears which map to valid PGP characters, a-z, A-Z, 0-9, +, /, and =
 
-Using OpenPGP.js, messages are encrpyted or signed using the same globally-trusted GPG client. Then Profanity65
+Using OpenPGP.js, messages are encrypted or signed using the same globally-trusted GPG client. Then Profanity65
 replaces the message's characters with a much more profane system:
 
 ```
