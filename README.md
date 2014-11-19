@@ -81,6 +81,14 @@ your own key.
 
 **Never commit your private key - the one in this repo is used as an example and never for authorized messages.**
 
+## NSA-hugging Option!
+
+CC your friends at the NSA by encrypting with terms used by the ECHELON program:
+
+```
+cp echelon.json profanity.json
+```
+
 ## License
 
 GPLv3+ -- based on OpenPGP.js which is LGPL
