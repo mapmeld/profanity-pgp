@@ -26,8 +26,8 @@ if (process.argv.length > 2) {
 
 function doEncrypt(plaintext) {
   openpgp.encryptMessage(pubKey, plaintext).then(function(pgpMessage) {
-    pgpMessage = pgpMessage.replace('OpenPGP.js', 'Profanity65');
-    pgpMessage = pgpMessage.replace('http://openpgpjs.org', 'https://github.com/mapmeld/profanity65');
+    pgpMessage = pgpMessage.replace('OpenPGP.js', 'Profanity-PGP');
+    pgpMessage = pgpMessage.replace('http://openpgpjs.org', 'https://github.com/mapmeld/profanity-pgp');
     var msg = pgpMessage.split('\n');
     for(var l = 4; l < msg.length - 2; l++) {
       var original_line = msg[l];

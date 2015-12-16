@@ -30,8 +30,8 @@ function doSign(plaintext) {
   openpgp.signClearMessage(privKey, plaintext).then(function(pgpMessage) {
     var original = pgpMessage.split('-----BEGIN PGP SIGNATURE-----')[0];
     var sig = pgpMessage.split('-----BEGIN PGP SIGNATURE-----')[1];
-    sig = sig.replace('OpenPGP.js', 'Profanity65');
-    sig = sig.replace('http://openpgpjs.org', 'https://github.com/mapmeld/profanity65');
+    sig = sig.replace('OpenPGP.js', 'Profanity-PGP');
+    sig = sig.replace('http://openpgpjs.org', 'https://github.com/mapmeld/profanity-pgp');
     var littlesig = sig.split('\n');
     for(var l = 3; l < littlesig.length - 2; l++) {
       var original_line = littlesig[l];

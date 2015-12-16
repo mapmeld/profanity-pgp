@@ -22,8 +22,8 @@ if (process.argv.length > 2) {
   });
 } else {
   var encrypted = ["-----BEGIN PGP MESSAGE-----",
-  "Version: Profanity65 VERSION",
-  "Comment: https://github.com/mapmeld/profanity65",
+  "Version: Profanity-PGP VERSION",
+  "Comment: https://github.com/mapmeld/profanity-pgp",
   "",
   "dipshit asshat dumbfuck hipster dumbass tit douchebag damn asshole schmuck horseshit bastard ass douchebag shitfaced dickhead dumbass motherfucking bitch dumbass damn ass dickhead fuckwad frak fucker twat damn dumbfuck bitch dildo poppycock dickhead shitstorm pissant douche cunt cunt piss piss slut wanker dumbfuck balls twat bitchy bastard fuckwad nsa-hugging tit douchebag fuck shitty motherfucker dickhead jackass shitter slut skank shitstorm",
   "fuck fuck asshole santorum balls dick dumbfuck dickish whore motherfucking bitchy whore asshole dickbag horseshit voldemort fuck wanker fucker darn frak shitstain fucking asshat anal bitchy ass git asshole dongle dumbfuck dickhead motherfucking dickish bitch fuckwad douche horseshit bitch fanny dick santorum balls fuckwad hippie ass dick bitch turd asshat fucking shitfaced darn dickbag douchebag ass whore asshat fucking bastard",

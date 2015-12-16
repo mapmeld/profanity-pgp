@@ -1,4 +1,4 @@
-# Profanity65
+# Profanity-PGP
 
 Anyone can use PGP to make their e-mail more secure. Using a pair of public and private keys, you either encrypt the entire
 message for a user, or add a signature to your e-mail for others to verify that it is your original content.
@@ -26,13 +26,13 @@ Let's make them more interesting!
 
 profanity.json includes a list of swears which map to valid PGP characters, a-z, A-Z, 0-9, +, /, and =
 
-Using OpenPGP.js, messages are encrypted or signed using the same globally-trusted GPG client. Then Profanity65
+Using OpenPGP.js, messages are encrypted or signed using the same globally-trusted GPG client. Then Profanity-PGP
 replaces the message's characters with a much more profane system:
 
 ```
 -----BEGIN PGP SIGNATURE-----
-Version: Profanity65 VERSION
-Comment: https://github.com/mapmeld/profanity65
+Version: Profanity-PGP VERSION
+Comment: https://github.com/mapmeld/profanity-pgp
 
 dipshit damn dipshit fuck dumbass motherfucking fuck git dumbass dumbfuck dumbass fucker dumbass crap nsa-hugging cunt shit crap dipshit goddamn fuck fuck damn bullshit shit pissant damn horseshit ass cock fanny poppycock dumbass dumbass fanny cunt cuntpunter bitch motherfucker whore motherfucker damn bitch skank turd fuck dongle shitter nsa-hugging darn asshole asshole hellish twat anal nsa-hugging fucking bollocks turd whore
 git dumbfuck fuckwad cunt piss dick tit douche nsa-hugging hellish voldemort twat shitstorm anal asshat bullshit whore goddamn bullshit shitstain twat piss whore fuck git ass ass horseshit pissant turd wanker shitstain cock dongle fucking slut crappy turd bullshit bitchy motherfucker bastard dumbfuck horseshit damn dumbfuck horseshit piss piss cunt whore hellish tit poppycock asshat dildo fanny tit asshole fuck
@@ -45,7 +45,7 @@ whoring dildo santorum crappy fucker
 ## Test Install (insecure)
 
 ```
-npm install -g profanity65
+npm install -g profanity-pgp
 
 profanity-encrypt SnowdenDocs.txt > GreenwaldMail.txt
 profanity-decrypt KryptosSculpture.txt > LizardPeopleConstitution.txt
@@ -65,8 +65,8 @@ gpg --export-secret-key --armor emailYouUsed@example.com > private_key.asc
 
 Install the software
 ```
-git clone https://github.com/mapmeld/profanity65.git
-cd profanity65
+git clone https://github.com/mapmeld/profanity-pgp.git
+cd profanity-pgp
 npm install
 ```
 
