@@ -15,6 +15,6 @@
     "profanity-decrypt": "decrypt.js"
   },
   "dependencies": {
-    "openpgp": "0.8.X"
+    "openpgp": "4.10.7"
   }
 }
